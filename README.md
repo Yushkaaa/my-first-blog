@@ -1,1 +1,1 @@
-# Finished blog based on https://djangogirls.org/ tutorial
+# Finished blog based on https://tutorial.djangogirls.org/en/ tutorial
